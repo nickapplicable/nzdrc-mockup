@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e609a737.chunk.css",
+    "main.js": "/static/js/main.9301c68e.chunk.js",
+    "main.js.map": "/static/js/main.9301c68e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.891eafc2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.891eafc2.js.map",
+    "static/css/2.f83b9687.chunk.css": "/static/css/2.f83b9687.chunk.css",
+    "static/js/2.aeb43270.chunk.js": "/static/js/2.aeb43270.chunk.js",
+    "static/js/2.aeb43270.chunk.js.map": "/static/js/2.aeb43270.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.e609a737.chunk.css.map": "/static/css/main.e609a737.chunk.css.map",
+    "static/js/2.aeb43270.chunk.js.LICENSE.txt": "/static/js/2.aeb43270.chunk.js.LICENSE.txt",
+    "static/media/undraw_not_found_60pq.faf05e44.svg": "/static/media/undraw_not_found_60pq.faf05e44.svg",
+    "static/media/workflow-logo-white-text.c64a9d8e.svg": "/static/media/workflow-logo-white-text.c64a9d8e.svg",
+    "static/media/workflow-logo.b7adb00c.svg": "/static/media/workflow-logo.b7adb00c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.891eafc2.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.aeb43270.chunk.js",
+    "static/css/main.e609a737.chunk.css",
+    "static/js/main.9301c68e.chunk.js"
+  ]
+}
