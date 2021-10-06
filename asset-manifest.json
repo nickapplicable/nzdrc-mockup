@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/nzdrc-mockup/static/css/main.b1076e52.chunk.css",
-    "main.js": "/nzdrc-mockup/static/js/main.65645558.chunk.js",
-    "main.js.map": "/nzdrc-mockup/static/js/main.65645558.chunk.js.map",
+    "main.css": "/nzdrc-mockup/static/css/main.bdf09580.chunk.css",
+    "main.js": "/nzdrc-mockup/static/js/main.4074a077.chunk.js",
+    "main.js.map": "/nzdrc-mockup/static/js/main.4074a077.chunk.js.map",
     "runtime-main.js": "/nzdrc-mockup/static/js/runtime-main.a7165381.js",
     "runtime-main.js.map": "/nzdrc-mockup/static/js/runtime-main.a7165381.js.map",
     "static/css/2.f83b9687.chunk.css": "/nzdrc-mockup/static/css/2.f83b9687.chunk.css",
-    "static/js/2.8e02daa0.chunk.js": "/nzdrc-mockup/static/js/2.8e02daa0.chunk.js",
-    "static/js/2.8e02daa0.chunk.js.map": "/nzdrc-mockup/static/js/2.8e02daa0.chunk.js.map",
+    "static/js/2.109b44fe.chunk.js": "/nzdrc-mockup/static/js/2.109b44fe.chunk.js",
+    "static/js/2.109b44fe.chunk.js.map": "/nzdrc-mockup/static/js/2.109b44fe.chunk.js.map",
     "index.html": "/nzdrc-mockup/index.html",
     "static/css/2.f83b9687.chunk.css.map": "/nzdrc-mockup/static/css/2.f83b9687.chunk.css.map",
-    "static/css/main.b1076e52.chunk.css.map": "/nzdrc-mockup/static/css/main.b1076e52.chunk.css.map",
-    "static/js/2.8e02daa0.chunk.js.LICENSE.txt": "/nzdrc-mockup/static/js/2.8e02daa0.chunk.js.LICENSE.txt",
+    "static/css/main.bdf09580.chunk.css.map": "/nzdrc-mockup/static/css/main.bdf09580.chunk.css.map",
+    "static/js/2.109b44fe.chunk.js.LICENSE.txt": "/nzdrc-mockup/static/js/2.109b44fe.chunk.js.LICENSE.txt",
+    "static/media/bg-grid.98c0f05a.svg": "/nzdrc-mockup/static/media/bg-grid.98c0f05a.svg",
     "static/media/layout-sidebar.55a16042.svg": "/nzdrc-mockup/static/media/layout-sidebar.55a16042.svg",
     "static/media/layout-topbar.ff4c6906.svg": "/nzdrc-mockup/static/media/layout-topbar.ff4c6906.svg",
-    "static/media/undraw_not_found_60pq.faf05e44.svg": "/nzdrc-mockup/static/media/undraw_not_found_60pq.faf05e44.svg",
-    "static/media/workflow-logo-white-text.c64a9d8e.svg": "/nzdrc-mockup/static/media/workflow-logo-white-text.c64a9d8e.svg",
-    "static/media/workflow-logo.b7adb00c.svg": "/nzdrc-mockup/static/media/workflow-logo.b7adb00c.svg"
+    "static/media/logo-text.7e31daaa.svg": "/nzdrc-mockup/static/media/logo-text.7e31daaa.svg",
+    "static/media/undraw_not_found_60pq.faf05e44.svg": "/nzdrc-mockup/static/media/undraw_not_found_60pq.faf05e44.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a7165381.js",
     "static/css/2.f83b9687.chunk.css",
-    "static/js/2.8e02daa0.chunk.js",
-    "static/css/main.b1076e52.chunk.css",
-    "static/js/main.65645558.chunk.js"
+    "static/js/2.109b44fe.chunk.js",
+    "static/css/main.bdf09580.chunk.css",
+    "static/js/main.4074a077.chunk.js"
   ]
 }
