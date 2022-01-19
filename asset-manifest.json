@@ -1,27 +1,17 @@
 {
   "files": {
-    "main.css": "/nzdrc-mockup/static/css/main.9bafe693.chunk.css",
-    "main.js": "/nzdrc-mockup/static/js/main.127afbe8.chunk.js",
-    "main.js.map": "/nzdrc-mockup/static/js/main.127afbe8.chunk.js.map",
-    "runtime-main.js": "/nzdrc-mockup/static/js/runtime-main.a7165381.js",
-    "runtime-main.js.map": "/nzdrc-mockup/static/js/runtime-main.a7165381.js.map",
-    "static/css/2.f83b9687.chunk.css": "/nzdrc-mockup/static/css/2.f83b9687.chunk.css",
-    "static/js/2.cafa96fd.chunk.js": "/nzdrc-mockup/static/js/2.cafa96fd.chunk.js",
-    "static/js/2.cafa96fd.chunk.js.map": "/nzdrc-mockup/static/js/2.cafa96fd.chunk.js.map",
+    "main.css": "/nzdrc-mockup/static/css/main.2f393071.css",
+    "main.js": "/nzdrc-mockup/static/js/main.452d9e4a.js",
+    "static/media/logo-text.svg": "/nzdrc-mockup/static/media/logo-text.7e31daaa951ae2f6a42d8271dbe50232.svg",
+    "static/media/undraw_not_found_60pq.svg": "/nzdrc-mockup/static/media/undraw_not_found_60pq.faf05e440aed10b35b9326a463bd0862.svg",
+    "static/media/layout-sidebar.svg": "/nzdrc-mockup/static/media/layout-sidebar.55a1604244353b8e203af9f9012011ee.svg",
+    "static/media/layout-topbar.svg": "/nzdrc-mockup/static/media/layout-topbar.ff4c6906123f928e4b01d893819457a6.svg",
     "index.html": "/nzdrc-mockup/index.html",
-    "static/css/2.f83b9687.chunk.css.map": "/nzdrc-mockup/static/css/2.f83b9687.chunk.css.map",
-    "static/css/main.9bafe693.chunk.css.map": "/nzdrc-mockup/static/css/main.9bafe693.chunk.css.map",
-    "static/js/2.cafa96fd.chunk.js.LICENSE.txt": "/nzdrc-mockup/static/js/2.cafa96fd.chunk.js.LICENSE.txt",
-    "static/media/layout-sidebar.55a16042.svg": "/nzdrc-mockup/static/media/layout-sidebar.55a16042.svg",
-    "static/media/layout-topbar.ff4c6906.svg": "/nzdrc-mockup/static/media/layout-topbar.ff4c6906.svg",
-    "static/media/logo-text.7e31daaa.svg": "/nzdrc-mockup/static/media/logo-text.7e31daaa.svg",
-    "static/media/undraw_not_found_60pq.faf05e44.svg": "/nzdrc-mockup/static/media/undraw_not_found_60pq.faf05e44.svg"
+    "main.2f393071.css.map": "/nzdrc-mockup/static/css/main.2f393071.css.map",
+    "main.452d9e4a.js.map": "/nzdrc-mockup/static/js/main.452d9e4a.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7165381.js",
-    "static/css/2.f83b9687.chunk.css",
-    "static/js/2.cafa96fd.chunk.js",
-    "static/css/main.9bafe693.chunk.css",
-    "static/js/main.127afbe8.chunk.js"
+    "static/css/main.2f393071.css",
+    "static/js/main.452d9e4a.js"
   ]
 }
